@@ -20,7 +20,7 @@ Sou um **programador em desenvolvimento** com interesse em **Java** e **PHP**. E
 <h2>Utilizo:</h2>
 
 <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GFerreira05&layout=pie&theme=synthwave)](https://github.com/Amanda-Silva8/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GFerreira05&layout=pie&theme=synthwave)](https://github.com/GFerreira05/github-readme-stats)
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 </div>
