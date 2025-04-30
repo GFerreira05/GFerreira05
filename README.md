@@ -19,8 +19,6 @@ Sou um **programador em desenvolvimento** com interesse em **Java** e **PHP**. E
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<h3 align="center">Utilizo:</h3>
-
 <p align="center">
   <a href="https://github.com/GFerreira05/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GFerreira05&layout=pie&theme=synthwave" alt="Top Langs" />
