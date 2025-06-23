@@ -10,7 +10,7 @@ Sou um **programador em desenvolvimento** com interesse em **Java** e **PHP**. E
 
 ## 💻 Sobre Mim
 
-- 🌱 **Atualmente aprendendo**: Java Script  
+- 🌱 **Atualmente aprendendo**: JavaScript  
 - 👯 **Buscando colaboração em**: Projetos de código aberto  
 - 💬 **Fale comigo sobre**: Programação 
 - ⚡ **Fato curioso**: Eu adoro jogos, animes, filmes e escutar música!
